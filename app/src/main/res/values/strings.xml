@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula</string>
+    <string name="adicao">+</string>
+    <string name="multiplicacao">*</string>
+    <string name="divisao">/</string>
+    <string name="subtracao">-</string>
+    <string name="numero_2">Número 2</string>
+</resources>
